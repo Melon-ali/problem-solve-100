@@ -22,4 +22,4 @@ function totalSum(...param1){
     return total;
 }
 
-console.log(totalSum(1,2,3,4,5,6,2))
+console.log(totalSum(1,2,3,4,5,6,2));
